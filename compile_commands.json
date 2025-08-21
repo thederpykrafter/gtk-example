@@ -24,11 +24,11 @@
       "-I/usr/include/sysprof-6",
       "-pthread",
       "-o",
-      "example-0",
-      "example-0.c"
+      "bin/example-3",
+      "src/example-3.c"
     ],
     "directory": "/home/thederpykrafter/Dev/c/gtk-example",
-    "file": "/home/thederpykrafter/Dev/c/gtk-example/example-0.c",
-    "output": "/home/thederpykrafter/Dev/c/gtk-example/example-0"
+    "file": "/home/thederpykrafter/Dev/c/gtk-example/src/example-3.c",
+    "output": "/home/thederpykrafter/Dev/c/gtk-example/bin/example-3"
   }
 ]
